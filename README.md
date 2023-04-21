@@ -1,6 +1,7 @@
 # Libtorch_config
-libtorch配置教程  
-网上可以找到的Libtorch教程已经有些老旧了，许多教程已经落后于Libtorch版本了，而且没有更新，此教程来自一次项目，是我收集了许多资料，踩过很多坑写出来的，希望能有用 :)  
+# Libtorch配置教程  
+# 网上可以找到的Libtorch教程已经有些老旧了，许多教程已经落后于Libtorch版本了，而且没有更新，此教程来自一次项目，是我收集了许多资料，踩过很多坑写出来的，希望能有用 :)  
+
 首先是检查cuda版本（默认已经安装cuda，且熟练使用visual studio），libtorch版本要和cuda版本保持一致，访问libtorch官网https://pytorch.org/   
  ![图片](https://user-images.githubusercontent.com/126166790/233633624-c74c0d53-40ed-43b4-a385-d639533e1db2.png)
 
