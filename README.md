@@ -122,7 +122,7 @@ XNNPACK.lib
  ![图片](https://user-images.githubusercontent.com/126166790/233634183-e97f1579-767b-4632-bc71-1a8ddd8fa9b7.png)
 
 在你新建的项目中输入以下代码，其中FileName里的文件我会提供，只需要修改相应路径即可，如果能运行，则说明导入成功，接下来只要在你的leela项目中按照我上面的教程也导入一遍就可以了。这其中可能会遇到各种奇奇怪怪的异常和报错，不过一般经过谷歌或百度搜博客的教程或者问chatGPT应该也能得到答案，这个教程以及代码就是我看了很多博客之后写出来的。
-
+```
 #include <torch/script.h>
 #include <iostream>
 #include <memory>
@@ -207,3 +207,5 @@ int main() {
 	std::cout << curr_probs << std::endl;
 	std::cout << score_sum << std::endl;
 }
+
+```
